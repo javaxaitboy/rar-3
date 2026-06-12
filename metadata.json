@@ -1,0 +1,6 @@
+{
+  "name": "World Explorer",
+  "description": "A comprehensive world countries exploration platform providing real-time data, search, region filtering, sorting, and favorites using the REST Countries API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
